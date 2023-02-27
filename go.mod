@@ -25,7 +25,7 @@ require (
 	github.com/getkin/kin-openapi v0.67.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-playground/locales v0.13.0
-	github.com/gobuffalo/flect v0.2.3
+	github.com/gobuffalo/flect v1.0.2
 	github.com/gobwas/glob v0.2.3
 	github.com/gohugoio/go-i18n/v2 v2.1.3-0.20210430103248-4c28c89f8013
 	github.com/gohugoio/testmodBuilder/mods v0.0.0-20190520184928-c56af20f2e95
